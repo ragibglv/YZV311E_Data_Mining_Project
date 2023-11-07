@@ -1,4 +1,5 @@
 Our Progress With Dates
 
 2023/10/30 - Github Repo created
+2023/11/07 - Data cleaning process started, currently on the merging task.
 
