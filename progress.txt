@@ -4,4 +4,4 @@ Our Progress With Dates
 2023/11/07 - Data cleaning process started, currently on the merging task.
 2023/11/11 - Process ongoing
 2023/11/15 - Data Merging Finished with simple cleaning
-
+2023/11/22 - Naive Bayes technique applied for predicting spam/not spam emails.
