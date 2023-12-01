@@ -6,3 +6,4 @@ Our Progress With Dates
 2023/11/15 - Data Merging Finished with simple cleaning
 2023/11/19 - Data Lemmatization to clear data
 2023/11/22 - Naive Bayes technique applied for predicting spam/not spam emails.
+2023/11/30 - Clustering analysis started for the enron dataset (codes are taking hours to compute since the data is 1 gb)
