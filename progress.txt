@@ -7,4 +7,5 @@ Our Progress With Dates
 2023/11/19 - Data Lemmatization to clear data
 2023/11/22 - Naive Bayes technique applied for predicting spam/not spam emails.
 2023/11/30 - Clustering analysis started for the enron dataset (codes are taking hours to compute since the data is 1 gb)
+2023/12/04 - Added Random forest classfifer, Support Vector Machine (SVM) classifiers, additionally, made a classification report for each of the mdoels
 2023/12/04 - Clustering finalized
