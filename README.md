@@ -26,6 +26,9 @@ This project aims to develop an AI-driven spam detector to identify and block sp
 ## Demo
 - `test_work.ipynb`: Demonstrates the model's application on a single email.
 
+## Academic Report
+For an in-depth understanding of the project's methodologies, results, and analyses, refer to our academic report: [Spam Detection AI Academic Report](https://drive.google.com/file/d/1VMs-fUmVVaZq5cwYbiBupQ_bE5apO9fm/view?usp=share_link)
+
 ## Requirements
 - A `requirements.txt` file is included for necessary library installations.
 
